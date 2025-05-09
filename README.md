@@ -87,11 +87,11 @@ You are a university professor creating a student-friendly summary of a technica
 ```
 
 * Scoring Template (Example)
-Platform	Technique	    Accuracy (10)	   Coherence (10)	  Simplicity (10)	  Speed (10)	  UX (10)	 Total (50)
-ChatGPT	Few-shot	         9	              9	                  8	              10	        9	       45
-Claude	Chain-of-thought	10	              10	                9	               8	        8	       45
-Gemini	Zero-shot	        7	                 8	                8	               9	        7	       39
-Copilot	Role-based	      8	                 9	                9	               9	        8	       43
+Platform	 Technique	      Accuracy (10)	   Coherence (10)	  Simplicity (10)	  Speed (10)	  UX (10)	 Total (50)
+ChatGPT	   Few-shot	          9	                 9	                8              10	        9	       45
+Claude	   Chain-of-thought  	10	              10	                9	              8	        8	       45
+Gemini	   Zero-shot	        7	                 8	                8	              9	        7	       39
+Copilot   	Role-based	      8	                 9	                9	              9	        8	       43
 ```
 📋 Reporting Template
 Include for each test:
